@@ -5,3 +5,6 @@ Saya Najma Qalbi Dwiharani dengan NIM 2102843 mengerjakan soal LP 7 dalam mata k
 
 ## Dokumentasi
 
+  <img
+  src="Doc/doc.gif"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
